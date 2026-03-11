@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+bin/
+build/
+develop-eggs/
+dist/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+
+# Flask instance folder
+instance/
+
+# Editors and IDEs
+.idea/
+.vscode/
+.DS_Store
+
+# Test and coverage artifacts
+.coverage
+.pytest_cache/
+htmlcov/
+
+# Documentation builds
+docs/_build/
