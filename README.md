@@ -20,33 +20,7 @@ This backend acts as the core engine that executes API requests, measures perfor
 
 ---
 
-## Project Structure
 
-backend/
-│
-├── app.py
-│
-├── routes
-│   ├── request_routes.py
-│   ├── loadtest_routes.py
-│   ├── history_routes.py
-│   └── analytics_routes.py
-│
-├── services
-│   ├── api_tester.py
-│   ├── load_tester.py
-│   ├── history_service.py
-│   └── analytics_service.py
-│
-├── database
-│   └── db.py
-│
-├── utils
-│   └── metrics.py
-│
-└── .env
-
----
 
 ## Environment Setup
 
